@@ -3,6 +3,7 @@ local whitelist = {
     "IWILLDESTROYROBLOX81",
     "OodDExUIk",
     "Mashpos10",
+    "AnimeStarting",
     "XXDEMONCOW678XX",
 }
 return whitelist
