@@ -1,0 +1,8 @@
+local whitelist = {
+    "aYaox30rich438",
+    "IWILLDESTROYROBLOX81",
+    "OodDExUIk",
+    "Mashpos10",
+    "XXDEMONCOW678XX",
+}
+return whitelist
